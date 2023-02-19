@@ -1,0 +1,140 @@
+.main-cnt {
+  margin-top: 40px;
+  margin-left: 100px;
+  border: 1px solid red;
+  width: 860px;
+  height: 1200px;
+}
+.nav-cnt {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  margin-left: 70px;
+}
+.img-logo {
+  width: 60px;
+}
+.bttn-cnt {
+  margin-left: 300px;
+  margin-top: -8px;
+}
+button {
+  font-family: arial;
+  font-size: 9px;
+  border: none;
+  background-color: white;
+  color: rgb(151, 147, 147);
+}
+.view-bttn {
+  font-family: arial;
+  font-size: 9px;
+  border: none;
+  background-color: white;
+  color: rgb(151, 147, 147);
+  border: 2px solid grey;
+  width: 100px;
+  height: 30px;
+}
+.infor-cnt {
+  width: 860px;
+  height: 300px;
+  margin-top: 10px;
+  background-color: hsl(256, 26%, 20%);
+  border: 1px solid black;
+}
+.right-pttn {
+  float: right;
+  width: 200px;
+  height: 240px;
+  filter: opacity(90%);
+}
+
+.insrnc-cnt {
+  margin-top: 40px;
+  margin-left: 90px;
+  border-top-style: solid;
+  border-top-width: thin;
+  border-top-color: white;
+  width: 100px;
+}
+.insrnc-ttl {
+  margin-top: 30px;
+  font-family: arial;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  width: 300px;
+}
+.insrnc-bdy {
+  font-family: arial;
+  color: rgb(210, 205, 205);
+  font-size: 12px;
+  line-height: 20px;
+  width: 470px;
+  margin-top: -30px;
+  width: 400px;
+}
+.plan-bttn {
+  font-family: arial;
+  margin-top: 10px;
+  border: 1px solid white;
+  width: 100px;
+  height: 30px;
+  color: white;
+  background: hsl(256, 26%, 20%);
+}
+.img-intro {
+  width: 280px;
+  margin-left: 410px;
+  margin-top: -210px;
+}
+.left-pttn {
+  margin-top: -160px;
+  width: 100px;
+  height: 250px;
+  filter: opacity(90%);
+}
+.insrnc-brand {
+  margin-left: 50px;
+  margin-top: -20px;
+  border-top-style: solid;
+  border-top-width: thin;
+  border-top-color: grey;
+  width: 100px;
+}
+.brand-infor {
+  width: 300px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.icon-cnt {
+  display: flex;
+  flex-direction: row;
+  width: 780px;
+}
+.snappy-cnt {
+  width: 300px;
+  height: 170px;
+  margin-right: 10px;
+}
+.prices-cnt {
+  width: 380px;
+  height: 170px;
+}
+.people-cnt {
+  width: 360px;
+  height: 170px;
+}
+.img-icon {
+  width: 40px;
+}
+.insrnc-typ {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: arial;
+}
+.icon-infor {
+  font-family: arial;
+  font-size: 11px;
+  color: grey;
+}
