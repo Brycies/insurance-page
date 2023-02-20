@@ -3,7 +3,7 @@
   margin-left: 100px;
   border: 1px solid red;
   width: 860px;
-  height: 1200px;
+  height: 800px;
 }
 .nav-cnt {
   display: flex;
@@ -137,4 +137,50 @@ button {
   font-family: arial;
   font-size: 11px;
   color: grey;
+}
+.footer-cnt {
+  margin-top: 0px;
+  width: 740px;
+  height: 100px;
+  background-color: hsl(256, 26%, 20%);
+}
+.pttn-footer {
+  float: right;
+  margin-right: 0px;
+  width: 130px;
+  height: 100px;
+}
+.media-cnt {
+  width: 740px;
+  height: 80px;
+  background-color: rgb(254, 252, 252);
+  border: 1px solid rgb(248, 242, 242);
+  margin-top: 50px;
+}
+.mediaicon-cnt {
+  display: flex;
+  flex-direction: row;
+  margin-left: 645px;
+}
+.media-icon {
+  width: 13px;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+.company-contcts {
+  display: flex;
+  flex-direction: row;
+  margin-left: 350px;
+}
+.cntcts-cnt {
+  margin-right: 150px;
+}
+.cmpny-infor {
+  font-family: arial;
+  color: grey;
+}
+.opt {
+  color: grey;
+  font-family: arial;
+  font-size: 11px;
 }
