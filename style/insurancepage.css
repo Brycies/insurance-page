@@ -1,15 +1,25 @@
+body {
+  background-color: rgb(149, 242, 242);
+}
 .main-cnt {
-  margin-top: 40px;
+  margin-top: 60px;
   margin-left: 100px;
-  border: 1px solid red;
+  border: 1px solid white;
+  background-color: white;
   width: 860px;
   height: 800px;
+  display: flex;
+  flex-direction: row;
+}
+.section1-cnt {
+  filter: opacity(100);
 }
 .nav-cnt {
   display: flex;
   flex-direction: row;
   margin-top: 15px;
   margin-left: 70px;
+  filter: opacity(100);
 }
 .img-logo {
   width: 60px;
@@ -183,4 +193,33 @@ button {
   color: grey;
   font-family: arial;
   font-size: 11px;
+}
+.section2-cnt {
+  margin-left: -300px;
+  margin-top: -25px;
+  border: 1px solid red;
+  width: 730px;
+  height: 600px;
+  background-color: white;
+  border: 1px solid white;
+}
+.brand-infor2 {
+  width: 300px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 40px;
+  margin-left: 10px;
+  filter: opacity(60%);
+}
+.insrnc-brand2 {
+  margin-left: -10px;
+  margin-top: -18px;
+  border-top-style: solid;
+  border-top-width: thin;
+  border-top-color: grey;
+}
+.pttn-footer2 {
+  float: right;
+  width: 130px;
+  height: 100px;
 }
